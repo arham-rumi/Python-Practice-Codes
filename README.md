@@ -9,4 +9,9 @@ I will try to comment most of the codes too
 Code files will be like
 
 ------>>>>  Problem description
+
 ------>>>>  Problem solution(s)
+
+*This repository is kept updated*
+
+*Stay updated*
