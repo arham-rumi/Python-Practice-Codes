@@ -10,7 +10,6 @@
 # Print average and product of all numbers.
 # --------------------------------------------------------------------------------------
 
-
 print("Enter the integers to get their Average and Product")
 print("Enter q to Quit")
 
