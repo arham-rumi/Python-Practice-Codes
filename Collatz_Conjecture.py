@@ -46,6 +46,7 @@ def collatzConjecture(num):
             print("\r")
             print(f"Chain Length is : {chainLen} ")
 
+
 # Main code
 num = int(input("Enter a positive integer to apply the collatz Conjecture : "))
 collatzConjecture(num)
